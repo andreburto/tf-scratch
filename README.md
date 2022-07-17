@@ -21,6 +21,8 @@ DOCKER_PASSWORD=
 DOCKER_USERNAME=
 ```
 
+There is a `static` directory in the root of the project that is excluded via `.gitignore` as the files there are not relevant.
+
 ### Terraform
 
 Currently using `v1.2.4`.
